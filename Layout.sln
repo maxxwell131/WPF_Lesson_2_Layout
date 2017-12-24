@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4_MyWrapPanel", "4_MyWrapPa
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5_MyUniformGrid", "5_MyUniformGrid\5_MyUniformGrid.csproj", "{E3743DFB-E217-47BD-8EBE-C0086CEBD43B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6_MyCanvas", "6_MyCanvas\6_MyCanvas.csproj", "{5AAAE341-BE6B-4407-9592-CCBB6E0A2738}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -179,6 +181,18 @@ Global
 		{E3743DFB-E217-47BD-8EBE-C0086CEBD43B}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{E3743DFB-E217-47BD-8EBE-C0086CEBD43B}.Release|x86.ActiveCfg = Release|Any CPU
 		{E3743DFB-E217-47BD-8EBE-C0086CEBD43B}.Release|x86.Build.0 = Release|Any CPU
+		{5AAAE341-BE6B-4407-9592-CCBB6E0A2738}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AAAE341-BE6B-4407-9592-CCBB6E0A2738}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AAAE341-BE6B-4407-9592-CCBB6E0A2738}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{5AAAE341-BE6B-4407-9592-CCBB6E0A2738}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{5AAAE341-BE6B-4407-9592-CCBB6E0A2738}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{5AAAE341-BE6B-4407-9592-CCBB6E0A2738}.Debug|x86.Build.0 = Debug|Any CPU
+		{5AAAE341-BE6B-4407-9592-CCBB6E0A2738}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AAAE341-BE6B-4407-9592-CCBB6E0A2738}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AAAE341-BE6B-4407-9592-CCBB6E0A2738}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{5AAAE341-BE6B-4407-9592-CCBB6E0A2738}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{5AAAE341-BE6B-4407-9592-CCBB6E0A2738}.Release|x86.ActiveCfg = Release|Any CPU
+		{5AAAE341-BE6B-4407-9592-CCBB6E0A2738}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
